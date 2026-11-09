@@ -25,5 +25,5 @@ pip install numpy pandas scipy
 ```
 
 ## Authors
-Aryasen 
-Stella
+- Aryasen 
+- Stella
